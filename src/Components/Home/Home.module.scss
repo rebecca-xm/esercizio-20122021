@@ -1,0 +1,16 @@
+.list {
+    display: flex;
+    flex-direction: column;
+
+    border: 2px solid black;
+    max-width: 300px;
+    text-align: center;
+
+    padding: 10px;
+    margin-bottom: 10px;
+
+    img {
+        max-width: 150px;
+        align-self: center;
+    }
+}
